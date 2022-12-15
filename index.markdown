@@ -4,3 +4,11 @@
 
 layout: home
 ---
+
+Standard Nerd, Code Artist, Fountain Pen Enjoyer.
+
+I work at Pixlee TurnTo an Emplifi Company as a Software developer.
+
+I'm pretty good at python, API design, Testing and Refactoring.
+
+I also bake some pretty good pizza, and have a <strong>very</strong> cute doggo.

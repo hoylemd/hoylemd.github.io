@@ -1,0 +1,51 @@
+---
+---
+
+
+@import "{{ site.theme }}";
+
+$terminal: #00AA00;
+$terminal-hover: #33DD33;
+$terminal-active: #007700;
+$terminal-visited: #8800AA;
+
+
+h1, h2 {
+  color: $terminal;
+
+}
+
+header {
+  border-bottom-color: $terminal;
+
+  h1 {
+    color: $terminal;
+  }
+  ul.nav {
+    padding-inline-start: 0;
+    > li  {
+      display: inline-block;
+
+      a {
+        color: $terminal;
+
+        &:visited { color: $terminal-visited; }
+        &:hover { color: $terminal-hover; }
+        &:active { color: $terminal-active; }
+      }
+    }
+  }
+}
+
+.container {
+  color: $terminal;
+}
+
+.greeting-section {
+  h2 {
+    margin-bottom: 5px;
+  }
+  sup {
+    color: grey;
+  }
+}
