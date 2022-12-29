@@ -15,6 +15,14 @@ h1, h2 {
 
 }
 
+a {
+  color: $terminal;
+
+  &:visited { color: $terminal-visited; }
+  &:hover { color: $terminal-hover; }
+  &:active { color: $terminal-active; }
+}
+
 header {
   border-bottom-color: $terminal;
 
@@ -26,13 +34,6 @@ header {
     > li  {
       display: inline-block;
 
-      a {
-        color: $terminal;
-
-        &:visited { color: $terminal-visited; }
-        &:hover { color: $terminal-hover; }
-        &:active { color: $terminal-active; }
-      }
     }
   }
 }

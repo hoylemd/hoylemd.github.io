@@ -7,8 +7,8 @@ layout: home
 
 Standard Nerd, Code Artist, Fountain Pen Enjoyer.
 
-I work at Pixlee TurnTo an Emplifi Company as a Software developer.
+I work at [Pixlee TurnTo](https://pixlee.com) an [Emplifi](https://emplifi.com) Company as a Software developer.
 
 I'm pretty good at python, API design, Testing and Refactoring.
 
-I also bake some pretty good pizza, and have a <strong>very</strong> cute doggo.
+I also bake some pretty good pizza, and have a <strong>very</strong> [cute doggo](https://www.instagram.com/whiskey_the_aussalier).
