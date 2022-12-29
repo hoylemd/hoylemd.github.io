@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "First!"
+date:   2022-12-29 12:12:07 -0500
+categories: blog
+tags: misc
+---
+
+Hello, welcome to Mike Hoyle's blog.  This is just an initial post so I have something to work with.
+
+I plan to eventually put stuff here I feel is worth writing about.  Probably movie reviews and hot takes, mostly.  But maybe some tech stuff.
+
+It's mostly just a way for me to get stuff out of my head.

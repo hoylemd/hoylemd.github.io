@@ -1,7 +1,6 @@
 ---
 ---
 
-
 @import "{{ site.theme }}";
 
 $terminal: #00AA00;
@@ -15,7 +14,7 @@ h1, h2 {
 
 }
 
-a {
+a, a h1 {
   color: $terminal;
 
   &:visited { color: $terminal-visited; }
@@ -38,10 +37,17 @@ header {
   }
 }
 
+.post {
+  &.title {
+    text-decoration: underline;
+  }
+}
+
 .container {
   color: $terminal;
 }
 
+/* for home/about page */
 .greeting-section {
   h2 {
     margin-bottom: 5px;
